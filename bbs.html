@@ -1,0 +1,278 @@
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/model.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<script type="text/javascript">
+function MM_validateForm() { //v4.0
+  if (document.getElementById){
+    var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+    for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=document.getElementById(args[i]);
+      if (val) { nm=val.name; if ((val=val.value)!="") {
+        if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+          if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+        } else if (test!='R') { num = parseFloat(val);
+          if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+          if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+            min=test.substring(8,p); max=test.substring(p+1);
+            if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+      } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+    } if (errors) alert('The following error(s) occurred:\n'+errors);
+    document.MM_returnValue = (errors == '');
+} }
+</script>
+<!-- InstanceEndEditable -->
+<style type="text/css">
+#div0 {
+	margin: 0px;
+}
+#div0 {
+	width: 1000px;
+}
+#div0 {
+	width: 1000px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-color: #FFFFFF;
+}
+#div1 {
+	height: 200px;
+	width: 1000px;
+}
+#div2 {
+	background-image: url(dh.jpg);
+	height: 34px;
+	width: 1000px;
+}
+#div0 #div2 ul {
+	display: inline;
+}
+#div2 ul li {
+	font-size: 14px;
+	font-weight: bolder;
+	color: #366;
+	list-style-type: none;
+	width: 80px;
+	margin-top: 8px;
+	margin-left: 30px;
+	margin-right: 0px;
+	float: left;
+}
+#div3 {
+	width: 1000px;
+}
+#div4 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 12px;
+	color: #7e7e7e;
+	text-align: center;
+	height: auto;
+	width: 1000px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	line-height: 18px;
+	list-style-type: none;
+	list-style-image: none;
+	word-spacing: normal;
+}
+body {
+	background-image: url(bgfill.jpg);
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #336666;
+	text-decoration: none;
+}
+a:visited {
+	color: #336666;
+	text-decoration: none;
+}
+a:hover {
+	color: #336666;
+	text-decoration: underline;
+}
+a:active {
+	color: #336666;
+	text-decoration: none;
+}
+</style>
+</head>
+
+<body>
+<div id="div0">
+  <div id="div1"><img src="title.jpg" width="1000" height="200" alt=""/></div>
+  <div id="div2">
+    <ul>
+      <li><a href="Untitled-4.html">网站首页</a></li>
+      <li><a href="study/study.html">专业教程</a></li>
+      <li><a href="works.html">作品展示</a></li>
+      <li><a href="travel/travel.html">家乡山水</a></li>
+      <li><a href="bbs.html">访客信息</a></li>
+      <li><a href="diary/diary.html">心情日记</a></li>
+    </ul>
+  </div>
+  <div id="div3"><!-- InstanceBeginEditable name="EditRegion3" -->
+    <form action="第七单元素材/send.html" method="post" enctype="multipart/form-data" name="form1" id="form1">
+      <table width="800" border="1" align="center">
+        <tbody>
+          <tr>
+            <td width="72" style="font-size: 14px">留言标题</td>
+            <td style="font-size: 14px"><input name="message" type="text" id="message" value="请在这里输入留言标题"></td>
+          </tr>
+          <tr>
+            <td width="72" style="font-size: 14px">留言姓名</td>
+            <td style="font-size: 14px"><input name="username" type="text" id="username" maxlength="10"></td>
+          </tr>
+          <tr>
+            <td width="72" style="font-size: 14px">性别</td>
+            <td style="font-size: 14px"><input name="radiobutten1" type="radio" id="radio" value="radio" checked="checked">
+            帅哥
+              <input type="radio" name="radiobutten1" id="radio2" value="radio2">
+            <label for="radiobutten1">妹妹 
+              <input type="radio" name="radiobutten1" id="radio3" value="radio3">
+            保密 </label></td>
+          </tr>
+          <tr>
+            <td width="72" style="font-size: 14px">年龄</td>
+            <td style="font-size: 14px"><select name="select" id="select">
+              <option value="15" selected="selected">15</option>
+              <option value="16">16</option>
+              <option value="17">17</option>
+              <option value="18">18</option>
+              <option value="19">19</option>
+              <option value="20">20</option>
+              <option value="21">21</option>
+            </select></td>
+          </tr>
+          <tr>
+            <td width="72" style="font-size: 14px">选择头像</td>
+            <td style="font-size: 14px"><p>
+              <label>
+                <input type="radio" name="radiogroup1" value="1" id="radiogroup1_0">
+              </label>
+              <img src="第七单元素材/bbsimages/f1.GIF" width="98" height="98" alt=""/>
+              <label>
+                <input type="radio" name="radiogroup1" value="2" id="radiogroup1_1">
+            </label>
+              <img src="第七单元素材/bbsimages/f2.GIF" width="98" height="98" alt=""/>
+              <label>
+                <input type="radio" name="radiogroup1" value="3" id="radiogroup1_2">
+            </label>
+              <img src="第七单元素材/bbsimages/f3.GIF" width="98" height="98" alt=""/>
+              <label>
+                <input type="radio" name="radiogroup1" value="4" id="radiogroup1_3">
+            </label>
+              <img src="第七单元素材/bbsimages/f4.GIF" width="98" height="98" alt=""/>
+              <label>
+                <input type="radio" name="radiogroup1" value="5" id="radiogroup1_4">
+            </label>
+              <img src="第七单元素材/bbsimages/f5.GIF" width="98" height="98" alt=""/><br>
+              <label>
+                <input type="radio" name="radiogroup1" value="6" id="radiogroup1_5">
+              </label>
+              <img src="第七单元素材/bbsimages/f6.GIF" width="98" height="98" alt=""/>
+              <label>
+                <input type="radio" name="radiogroup1" value="7" id="radiogroup1_6">
+            </label>
+              <img src="第七单元素材/bbsimages/f7.GIF" width="98" height="98" alt=""/>
+              <label>
+                <input type="radio" name="radiogroup1" value="8" id="radiogroup1_7">
+            </label>
+              <img src="第七单元素材/bbsimages/f8.GIF" width="98" height="98" alt=""/>
+              <label>
+                <input type="radio" name="radiogroup1" value="9" id="radiogroup1_8">
+            </label>
+              <img src="第七单元素材/bbsimages/f9.GIF" width="98" height="98" alt=""/>
+              <label>
+                <input type="radio" name="radiogroup1" value="10" id="radiogroup1_9">
+            </label>
+              <img src="第七单元素材/bbsimages/f10.GIF" width="98" height="98" alt=""/><br>
+            </p></td>
+          </tr>
+          <tr>
+            <td width="72" style="font-size: 14px">自定义头像</td>
+            <td style="font-size: 14px"><input type="file" name="fileField" id="fileField"></td>
+          </tr>
+          <tr>
+            <td width="72" style="font-size: 14px">电子邮件</td>
+            <td style="font-size: 14px"><input type="email" name="email" id="email"></td>
+          </tr>
+          <tr>
+            <td width="72" style="font-size: 14px">个人网站</td>
+            <td style="font-size: 14px"><input type="text" name="website" id="website"></td>
+          </tr>
+          <tr>
+            <td width="72" style="font-size: 14px">个人爱好</td>
+            <td style="font-size: 14px"><p>
+              <label>
+                <input name="CheckboxGroup1" type="checkbox" id="CheckboxGroup1_0" value="fx1" checked="checked">
+                旅游</label>
+              <label>
+                <input type="checkbox" name="CheckboxGroup1" value="fx2" id="CheckboxGroup1_1">
+                购物</label>
+              <label>
+                <input type="checkbox" name="CheckboxGroup1" value="fx3" id="CheckboxGroup1_2">
+                上网</label>
+              <label>
+                <input type="checkbox" name="CheckboxGroup1" value="fx4" id="CheckboxGroup1_3">
+                游泳</label>
+              <label>
+                <input type="checkbox" name="CheckboxGroup1" value="fx5" id="CheckboxGroup1_4">
+                电影</label>
+              <label>
+                <input type="checkbox" name="CheckboxGroup1" value="fx6" id="CheckboxGroup1_5">
+                唱歌</label>
+              <label>
+                <input type="checkbox" name="CheckboxGroup1" value="fx7" id="CheckboxGroup1_6">
+                跑步
+              </label>
+              <label>
+                <input type="checkbox" name="CheckboxGroup1" value="fx8" id="CheckboxGroup1_7">
+                爬山</label>
+              <label>
+                <input type="checkbox" name="CheckboxGroup1" value="fx9" id="CheckboxGroup1_8">
+                象棋</label>
+              <label>
+                <input type="checkbox" name="CheckboxGroup1" value="fx10" id="CheckboxGroup1_9">
+                galgame
+              </label>
+              <label>
+                <input type="checkbox" name="CheckboxGroup1" value="fx11" id="CheckboxGroup1_10">
+                其他</label>
+              <br>
+            </p></td>
+          </tr>
+          <tr>
+            <td width="72" style="font-size: 14px">幸运数字</td>
+            <td style="font-size: 14px"><input type="text" name="mynumb" id="mynumb"></td>
+          </tr>
+          <tr>
+            <td width="72" style="font-size: 14px">留言内容</td>
+            <td style="font-size: 14px"><textarea name="textarea" cols="50" rows="5" id="textarea"></textarea></td>
+          </tr>
+          <tr>
+            <td width="72" style="font-size: 14px">&nbsp;</td>
+            <td style="font-size: 14px"><input name="submit" type="submit" id="submit" onClick="MM_validateForm('message','','R','username','','R','mynumb','','NinRange0:9','textarea','','R');return document.MM_returnValue" value="提交">
+            <input type="reset" name="reset" id="reset" value="重置"></td>
+          </tr>
+        </tbody>
+      </table>
+    </form>
+  <!-- InstanceEndEditable --></div>
+  <div id="div4">
+    <p>个人所有<br>
+    QQ：1175636808</p></div>
+</div>
+	
+</body>
+<!-- InstanceEnd --></html>
