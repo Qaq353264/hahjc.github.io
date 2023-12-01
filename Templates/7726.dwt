@@ -1,0 +1,412 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<link href="file:///D|/网页设计软件 DW/网页制作作业/<style>.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+.title1 {
+	color: #DD8A2C;
+	height: 0%;
+	width: 0%;
+	list-style-position: inside;
+	text-align: left;
+}
+body {
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%B4%A0%E6%9D%90%E6%96%87%E4%BB%B6%E5%A4%B9/%E7%AC%AC%E4%B8%89%E5%8D%95%E5%85%83%E7%B4%A0%E6%9D%90/bgfill.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0 100%;
+	background-attachment: fixed;
+	width: 1992px;
+	/* [disabled]margin-left: 56px; */
+	/* [disabled]margin-top: 292px; */
+	/* [disabled]margin-right: 56px; */
+	/* [disabled]margin-bottom: 5px; */
+}
+#div10 {
+	/* [disabled]margin-top: 445px; */
+}
+td ul li {
+}
+#mydiv2 ul li {
+	list-style-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/arrow.gif);
+	list-style-position: outside;
+}
+.mydiv2 ul li {
+	list-style-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/arrow.gif);
+	list-style-type: none;
+}
+.bule {
+	color: #4CADE7;
+}
+.yellow {
+	color: #EDE21C;
+}
+.buju {
+	padding-top: 0px;
+	top: -91%;
+	left: -10%;
+	bottom: 74%;
+	right: 83%;
+}
+li {
+	list-style-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/arrow.gif);
+}
+#div5 ul li {
+	display: inline;
+	margin-top: 72px;
+	margin-bottom: 75px;
+	background-repeat: repeat;
+	/* [disabled]width: 100px; */
+}
+#div5 p {
+	width: 306px;
+	text-align: left;
+	float: left;
+	margin-left: 17px;
+	margin-top: 5px;
+	color: #35B5A3;
+}
+
+.poem {
+	color: #B1A30E;
+	font-style: italic;
+	font-size: medium;
+}
+.ooooo {
+	color: #7D3D99;
+	text-align: left;
+}
+.cccccccc {
+	color: #AE7071;
+	font-style: italic;
+}
+div0 {
+}
+div1 {
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/url);
+}
+#div1 {
+	float: none;
+}
+.abc {
+}
+#div2 {
+}
+#div3 {
+	/* [disabled]width: 1500px; */
+}
+div3 {
+	width: 1500px;
+}
+#div4 {
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%B4%A0%E6%9D%90%E6%96%87%E4%BB%B6%E5%A4%B9/%E7%AC%AC%E4%B8%89%E5%8D%95%E5%85%83%E7%B4%A0%E6%9D%90/dh.jpg);
+	width: 1246px;
+}
+#div3 {
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%B4%A0%E6%9D%90%E6%96%87%E4%BB%B6%E5%A4%B9/%E7%AC%AC%E4%B8%89%E5%8D%95%E5%85%83%E7%B4%A0%E6%9D%90/dh.jpg);
+	width: 1992px;
+}
+#div5 {
+	width: 1992px;
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%B4%A0%E6%9D%90%E6%96%87%E4%BB%B6%E5%A4%B9/%E7%AC%AC%E4%B8%89%E5%8D%95%E5%85%83%E7%B4%A0%E6%9D%90/1696830174354.png);
+	height: 32px;
+	margin-top: -5px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	background-repeat: no-repeat;
+	background-color: cover;
+}
+#div6 {
+	
+	width: 1992px;
+	height: 28px;
+}
+#div6 {
+	width: 1992px;
+}
+#div6 {
+	width: 1992px;
+	height: 0px;
+}
+#div6 {
+	width: 1000px;
+	height: 67px;
+	float: left;
+}
+#div7 {
+	width: 1992px;
+}
+.abc {
+	color: #35B5A3;
+}
+#div7 {
+	width: 1994px;
+	text-align: center;
+	font-size: 18px;
+	margin: 0px;
+	height: auto;
+}
+	#div8{
+	width: 1992px;
+	height: auto;
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%B4%A0%E6%9D%90%E6%96%87%E4%BB%B6%E5%A4%B9/%E7%AC%AC%E4%BA%8C%E5%8D%95%E5%85%83%E7%B4%A0%E6%9D%90/images/sky.jpg);
+		background-repeat: no-repeat;
+	background-size: cover;
+	
+		
+	}
+#container {
+	height: 550px;
+	width: 1994px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	text-align: center;
+}
+#header {
+	height: 56px;
+	width: 1000px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: auto;
+}
+#headerleft {
+	float: none;
+	height: 33px;
+	width: 140px;
+}
+#headerright {
+	float: right;
+	height: 33px;
+	width: 126px;
+}
+#main {
+	float: none;
+	width: 992px;
+	margin-top: 3px;
+	margin-right: 4px;
+	margin-bottom: 0px;
+	margin-left: 4px;
+}
+#mainleft {
+	margin: 0px;
+	float: none;
+	height: 400px;
+	width: 344px;
+	border: 1px solid #D4D0C8;
+}
+#maincenter {
+	height: 400px;
+	width: 344px;
+	margin-top: 0px;
+	margin-right: 3px;
+	margin-bottom: 0px;
+	margin-left: 3px;
+	border: 1px solid #D4D0C8;
+	float: none;
+}
+
+#mainright {
+	margin: 0px;
+	float: none;
+	height: 400px;
+	width: 292px;
+	border: 1px solid #D4D0C8;
+}
+#maintop {
+	margin: 0px;
+	height: 200px;
+	width: 344px;
+}
+#maintop {
+	margin: 0px;
+	height: 200px;
+	width: 344px;
+	float: none;
+}
+#maindown {
+	margin: 0px;
+	height: 199px;
+	width: 344px;
+	border: 1px solid #D4D0C8;
+}
+	
+	
+#footer {
+	float: none;
+	height: 100px;
+	width: 990px;
+	margin-top: 3px;
+	margin-right: 4px;
+	margin-bottom: 0px;
+	margin-left: 4px;
+	border: 1px solid #D4D0C8;
+	text-align: left;
+}
+#div11 {
+	height: auto;
+	width: 1994px;
+}
+#tb1 {
+	height: auto;
+	width: auto;
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/1696830174354.png);
+}
+#tb2 {
+	height: auto;
+	width: auto;
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/1696830174354.png);
+}
+#tb3 {
+	height: auto;
+	width: auto;
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/1696830174354.png);
+}
+#tb4 {
+	height: auto;
+	width: auto;
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/1696830174354.png);
+}
+#tb5 {
+	height: auto;
+	width: auto;
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/1696830174354.png);
+}
+#tb6 {
+	height: auto;
+	width: auto;
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/1696830174354.png);
+}
+#tt {
+	height: 400px;
+	width: auto;
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/htbj.gif);
+	background-repeat: repeat-x;
+	color: #366;
+	font-weight: bolder;
+	font-size: 14px;
+	line-height: 26px;
+}
+#tt1 {
+	height: 400px;
+	width: auto;
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/htbj.gif);
+	background-repeat: repeat-x;
+	color: #366;
+	font-weight: bolder;
+	font-size: 14px;
+	line-height: 26px;
+}
+#tt2 {
+	height: 900px;
+	width: auto;
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/htbj.gif);
+	background-repeat: repeat-x;
+	color: #366;
+	font-weight: bolder;
+	font-size: 14px;
+	line-height: 26px;
+}
+#tt3 {
+	height: 400px;
+	width: auto;
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/htbj.gif);
+	background-repeat: repeat-x;
+	color: #366;
+	font-weight: bolder;
+	font-size: 14px;
+	line-height: 26px;
+}
+#tt4 {
+	height: 400px;
+	width: auto;
+	background-image: url(file:///D|/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%20DW/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%BD%9C%E4%B8%9A/htbj.gif);
+	background-repeat: repeat-x;
+	color: #366;
+	font-weight: bolder;
+	font-size: 14px;
+	line-height: 26px;
+}
+#tt5 {
+	height: 90px;
+	width: auto;
+}
+#tt6 {
+	height: 90px;
+	width: 80px;
+	float: left;
+	margin: 0px;
+}
+#tt7 {
+	height: 90px;
+	width: 100px;
+	float: left;
+	font-size: 18px;
+	margin: 0px;
+}
+</style>
+<link href="file:///D|/网页设计软件 DW/网页制作作业/mysite/mycss.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="div8">
+<div>
+  <div id="div1">
+    <div id="div2"></div>
+    <table width="1000" height="988" border="0">
+      <tbody>
+      </tbody>
+      <tbody>
+      </tbody>
+      <tbody>
+        <tr>
+          <td width="14%" height="22"><div id="tb1"><strong class="abc">网站首页</strong></div></td>
+          <td width="16%"><div id="tb2"><strong class="abc">专业教程</strong></div></td>
+          <td width="14%"><div id="tb3"><strong class="abc">作品展示</strong></div></td>
+          <td width="17%"><div id="tb4"><strong class="abc">家乡山水</strong></div></td>
+          <td width="22%"><div id="tb5"><strong class="abc">访客信息</strong></div></td>
+          <td width="17%"><div id="tb6"><strong class="abc">心情日记</strong></div></td>
+        </tr>
+        <tr>
+          <td><img src="file:///D|/网页设计软件 DW/网页制作作业/zyjc.jpg" width="199" height="41" alt=""/></td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td><img src="file:///D|/网页设计软件 DW/网页制作作业/yywx.gif" width="279" height="53" alt=""/></td>
+        </tr>
+        <tr>
+          <td height="402" colspan="2"><div id="tt">Potoshop技巧</div></td>
+          <td colspan="2"><div id="tt1">Dreamweaver技巧</div></td>
+          <td colspan="2" rowspan="3"><div id="tt2">教程</div></td>
+        </tr>
+        <tr>
+          <td height="304" colspan="2"><div id="tt3">办公室自动化技巧</div></td>
+          <td colspan="2"><div id="tt4">计算机硬件维护技巧</div></td>
+        </tr>
+        <tr>
+          <td height="95" colspan="4"><div id="tt5">
+            <div id="tt7"><strong style="font-size: 20px">友情链接</strong></div>
+            <img src="file:///D|/网页设计软件 DW/网页制作作业/guigudongli.jpg" width="164" height="61" alt=""/><img src="file:///D|/网页设计软件 DW/网页制作作业/wangyixueyuan.jpg" width="164" height="61" alt=""/><img src="file:///D|/网页设计软件 DW/网页制作作业/jiaocheng.jpg" width="160" height="61" alt=""/><img src="file:///D|/网页设计软件 DW/网页制作作业/xinlangxueyuan.jpg" width="229" height="61" alt=""/><img src="file:///D|/网页设计软件 DW/网页制作作业/zixue52.jpg" width="199" height="61" alt=""/></div></td>
+        </tr>
+      </tbody>
+      <tbody>
+      </tbody>
+      <tbody>
+      </tbody>
+    </table>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+  </div>
+</div>
+<p class="yellow">&nbsp;</p>
+
+</body>
+</html>
